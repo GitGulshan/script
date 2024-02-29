@@ -30,13 +30,13 @@ fruits.pop(fruits); // it delets the last elements from the array
 console.log(fruits);
 
 console.log(Array.isArray(fruits)); // check somthing is in array
-console.log(Array.isArray()); // check somthing is in array-----------
+console.log(Array.isArray()); // check somthing is in array-----------BHAIYA
 
-console.log(fruits.indexOf()); /// blank me -1 kuyu diya result------
+console.log(fruits.indexOf()); /// blank me -1 kuyu diya result------BHAIYA
 
 console.log(fruits.indexOf("audi")); // it return the value of the elments.
 
 console.log(fruits.lastIndexOf("ball"));
-console.log(fruits.lastIndexOf("bikes")); // difference kya huwa dono me---------
+console.log(fruits.lastIndexOf("bikes")); // difference kya huwa dono me---------BHIAYA
 
 */

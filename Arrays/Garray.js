@@ -51,3 +51,18 @@ console.log(kalla.lastIndexOf("chutiya"));
 
 console.log(kalla[4]);
 */
+
+// const fruits = ["banana", "fish", "chicken", "ball"];
+// console.log(fruits);
+
+// console.log(fruits[4]); // undefined.
+
+// fruits[4] = "cars"; // not a good practices.
+
+// console.log(fruits);
+// fruits.push("car");
+// console.log(fruits);
+
+// console.log(fruits.pop());
+// console.log(fruits);
+// console.log(fruits.lastIndexOf());
